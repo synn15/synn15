@@ -1,7 +1,16 @@
-### Hi there 👋
+### Hello
 
+Perkenalkan nama saya Bimo Aryo Bramantyo KR  
+Saya mahasiswa jurusan Teknik Informatika di Universitas Negeri Semarang (UNNES)  
+Akun lain [GitHub](https://github.com/Bimoaryobkr)
+<p align="left">
+<a href="https://github.com/synn15">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=synn15&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=synn15&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 <!--
-**synn15/synn15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bimoaryobkr/Bimoaryobkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
